@@ -98,6 +98,6 @@ And .gitignore you've created looks like this:
 `You just helped $language_extension developer find the latest version of his code! .gitignore is created. $number files deleted.`
 
 #### How to submit your solution
-- Create your personal private repository in any popular version control platform (preferably github or gitlab). It is important to have your repository PRIVATE. We won't check solutions in public repository. <br>
+- Create your personal private repository in github. It is important to have your repository PRIVATE. We won't check solutions in public repository. <br>
 - Create README.md file and write a clear step by step instructions on how to run your script. Don't forget to mention permissions handling! <br>
-- We'll need a read permission to your repository to check your solution. That's why we will send you a username, and you should add it to your repository. Our recruiter will provide you with details.
+- We'll need a read permission to your repository to check your solution. Add @lanavasilieva to your repository with Developer role
